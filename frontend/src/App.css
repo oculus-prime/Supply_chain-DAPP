@@ -1,0 +1,97 @@
+  .App {
+    text-align: center;
+  }
+  
+  .App-logo {
+    height: 30vmin;
+    pointer-events: none;
+  }
+
+  
+  .App-header {
+    background-color: white;
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+  }
+  
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+
+  .warning {
+    background-color: red;
+    text-align: center;
+    width: 100%;
+    padding: 10px;
+    font-size: 14pt;
+    color: white;
+  }
+
+  hr.solid {
+    border-top: 3px solid #bbb;
+  }
+
+  .input-group-addon-left {
+    background-color: #f2f2f2; /* set background color */
+    padding: 7px 10px; /* set padding for visual emphasis */
+    border-radius: 5px 0 0 5px; /* round the left corners */
+    border: 1px solid #c0c0c0; /* add a border */
+    border-right: none; /* remove border on right side */
+    font-size: 14px; /* set font size */
+    font-weight: bold; /* make the text bold */
+  }
+
+  .border-width {
+    border: 2px solid #c0c0c0;
+  }
+
+  .input-group-addon-right {
+    background-color: #f2f2f2; /* set background color */
+    padding: 7px 10px; /* set padding for visual emphasis */
+    border-radius: 0 5px 5px 0; /* round the left corners */
+    border: 1px solid #c0c0c0; /* add a border */
+    border-left: none; /* remove border on right side */
+    font-size: 14px; /* set font size */
+    font-weight: bold; /* make the text bold */
+  }
+
+  
+  .square {
+    width: 300px;
+    height: 170px;
+    background-color: #f8f8ff;
+    border: 1.3px solid #c0c0c0; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 10px;
+  }
+  
+  .arrow {
+    font-size: 40px;
+    margin: 0 10px;
+  }
+  
+  .font {
+    font-size: 90%;
+  }
+
+  .font_1 {
+    font-size: 75%;
+  }
