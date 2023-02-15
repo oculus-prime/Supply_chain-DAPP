@@ -26,7 +26,7 @@ It gives an insight of the Dapp (it show just the final step of the supply chain
 ## How to install and use it
 The first things to do are cloning repo and installing dependencies: <br/>
 ```
-git clone https://github.com/oculus-prime/Supply_chain_Dapp.git
+git clone https://github.com/oculus-prime/Supply_chain-DAPP.git
 cd Supply_chain_Dapp
 npm install
 ```
