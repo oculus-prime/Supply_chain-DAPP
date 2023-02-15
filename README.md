@@ -1,5 +1,5 @@
 # Supply chain Dapp
-This repository contains the implementation of a decentralized App, in particular an Agrifood Suppy Chain Dapp. <br/>
+This repository contains the implementation of a decentralized App, in particular an Agrifood Supply Chain Dapp. <br/>
 It has been developed with the purpose to provide transparency and
 clarity to all consumers interacting with this market. The consumer, in fact, will be able to check the
 entire product’s  chain (Farmer, Distributor and obviously Retailer). This main functionality,
