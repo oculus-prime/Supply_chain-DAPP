@@ -20,8 +20,6 @@ It gives an insight of the Dapp (it show just the final step of the supply chain
 
 
 
-**Diagram main 'contract class' Supply_chain.sol** <br/>
-
 
 
 ## How to install and use it
