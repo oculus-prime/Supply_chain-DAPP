@@ -27,7 +27,7 @@ It gives an insight of the Dapp (it show just the final step of the supply chain
 The first things to do are cloning repo and installing dependencies: <br/>
 ```
 git clone https://github.com/oculus-prime/Supply_chain-DAPP.git
-cd Supply_chain_Dapp
+cd Supply_chain-DAPP
 npm install
 ```
 Once installed, let's run Hardhat's testing network:<br/>
