@@ -17,6 +17,7 @@ The technologies used in this project are: <br/>
 
 ## Demo
 It gives an insight of the Dapp (it show just the final step of the supply chain) <br/>
+<br/>
 ![Demo (1)](https://user-images.githubusercontent.com/125466565/219102149-d24c2649-a31e-4a49-91d1-074fe2c63526.gif)
 
 
