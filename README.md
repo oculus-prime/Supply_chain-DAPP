@@ -44,5 +44,5 @@ cd frontend
 npm install
 npm start
 ```
-The Dapp wille be rendered on https://localhost:3000/. You'll need to have Metamask installed and listening to 'localhost 8545'
+The Dapp will be rendered on https://localhost:3000/. You'll need to have Metamask installed and listening to 'localhost 8545'
 with chainID '31337'.
